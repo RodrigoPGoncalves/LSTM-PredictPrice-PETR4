@@ -1,12 +1,11 @@
 # 📈 LSTM-PETR4 - Previsão de Ações com Deep Learning
 
-Este projeto tem como objetivo prever o comportamento da ação PETR4 utilizando modelos de deep learning como LSTM, CNN-LSTM, LSTM com Attention e outros. Ele inclui pipelines de pré-processamento, treinamento e testes, além de uma interface via Streamlit e uma API.
+Este projeto tem como objetivo prever o comportamento da ação PETR4 utilizando modelos de deep learning como LSTM, CNN-LSTM, LSTM com Attention e outros. Ele inclui pipelines de pré-processamento, treinamento e testes, além de uma interface via Streamlit e uma API de comunicação com o back.
 
 ---
 
 ## 📁 Estrutura do Projeto
-LSTM-PETR4/
-│
+```
 ├── models/ # Modelos de deep learning
 │ └── modelsTrainLocal/ # Implementações específicas (LSTM, CNN, etc.)
 │
@@ -18,6 +17,7 @@ LSTM-PETR4/
 ├── preprocessFiles/ # Arquivos de dados já pré-processados
 ├── requirements.txt # Dependências do projeto
 └── README.md # Este arquivo
+```
 
 
 ---
@@ -51,9 +51,12 @@ python __init__.py
 ```
 ### 5. Acessos
 
-Fast API em: http://127.0.0.1:8000/
-Streamlit em: http://127.0.0.1:8501/
-Mlflow em: http://127.0.0.1:5000/
+
+- Fast API em: http://127.0.0.1:8000/
+
+- Streamlit em: http://127.0.0.1:8501/
+
+- Mlflow em: http://127.0.0.1:5000/
 
 ## 🐳 Rodando com Docker
 
@@ -62,35 +65,48 @@ Mlflow em: http://127.0.0.1:5000/
 docker-compose up --build
 
 ## 📊 Modelos disponíveis
-model_lstm.py
+- model_lstm.py
 
-model_lstm_cnn.py
 
-model_lstm_attention.py
+- model_lstm_cnn.py
 
-model_lstm_bidirecional.py
 
-model_lstm_bi_atten_cnn.py
+- model_lstm_attention.py
+
+
+- model_lstm_bidirecional.py
+
+
+- model_lstm_bi_atten_cnn.py
 
 ## 📎 Dados
 Os arquivos .csv utilizados estão na pasta originalFiles/, incluindo dados de:
 
-PETR4
 
-SELIC
+- PETR4
 
-IPCA
 
-Dólar (USDT-BRL)
+- SELIC
 
-Petróleo Brent
+
+- IPCA
+
+
+- Dólar (USDT-BRL)
+
+
+- Petróleo Brent
 
 ## 📦 Requisitos
 
-Python 3.8+
 
-Pandas, NumPy, TensorFlow, Keras
+- Python 3.8+
 
-Streamlit
 
-FastAPI (ou Flask, dependendo da API)
+- Pandas, NumPy, TensorFlow, Keras
+
+
+- Streamlit
+
+
+- FastAPI 

@@ -57,7 +57,6 @@ class Model():
                     future_predictions = []
                     for i in range(period_to_predict):
                         last_sequence_reshaped = np.expand_dims(last_sequence, axis=0)
-                        print(last_sequence_reshaped)
                         next_prediction = model.predict(last_sequence_reshaped)[0, 0]  # Saída única
                         future_predictions.append(next_prediction)
                         next_sequence = np.append(last_sequence[1:], [[*last_sequence[-1, :-1], next_prediction]], axis=0)
@@ -89,8 +88,6 @@ class Model():
         data_inicial = pd.to_datetime(data_inicial)
         dias_adicionados = 0
         while dias_adicionados < dias_para_adicionar:
-            print("aqui")
-            print(data_inicial)
             data_inicial += pd.Timedelta(days=1)
             if data_inicial.weekday() < 5:
                 dias_adicionados += 1
