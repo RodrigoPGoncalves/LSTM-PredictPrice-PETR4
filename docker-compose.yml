@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  lstm-petr4:
+    build: .
+    container_name: lstm_petr4_app
+    ports:
+      - "5000:5000"   # Para o MlFlow
+      - "8501:8501"   # Para Streamlit
+      - "8000:8000"   # Para API
+    volumes:
+      - .:/app        # Compartilha pasta local com container
+    restart: unless-stopped

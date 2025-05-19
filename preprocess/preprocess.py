@@ -209,7 +209,7 @@ class PreProcess:
         df_pulp_origin = pd.read_csv(self.path_files_original + "/Dados Históricos - Petróleo Brent Futuros.csv")
         df_selic_origin = pd.read_csv(self.path_files_original + "/selic.csv")
         df_ipca_origin = pd.read_csv(self.path_files_original + "/ipca.csv")
-
+        
         df_dolar = self.ajusting_tables_dolar(df_usdt_to_brl_origin)
         df_acao = self.ajusting_tables_action(df_acao_origin)
         df_acao_test_model = self.ajusting_tables_action(df_acao_origin_test_model_origin)

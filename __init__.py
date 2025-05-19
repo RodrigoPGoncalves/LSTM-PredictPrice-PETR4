@@ -1,6 +1,7 @@
 import subprocess
 import os
 import sys
+import time
 
 def kill_process_on_port(port):
     try:
@@ -41,3 +42,10 @@ if __name__ == '__main__':
     print("Fast API em: http://127.0.0.1:8000/")
     print("Streamlit em: http://127.0.0.1:8501/")
     print("Mlflow em: http://127.0.0.1:5000/")
+
+    try:
+        while True:
+            time.sleep(10)
+            
+    except KeyboardInterrupt:
+        print("\nEncerrando container...")

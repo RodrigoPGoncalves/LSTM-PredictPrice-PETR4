@@ -31,8 +31,8 @@ class Payload(BaseModel):
     data: List[DataEntry]
 
 pp_object = pp.PreProcess()
-pp_object.download_and_save_files()
-pp_object.process_and_save_files()
+#pp_object.download_and_save_files()
+#pp_object.process_and_save_files()
 
 md_object = Model(pp_object)
 

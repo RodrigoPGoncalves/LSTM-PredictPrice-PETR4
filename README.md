@@ -60,7 +60,7 @@ python __init__.py
 
 ## 🐳 Rodando com Docker
 
-1. Construir e subir os containers
+1. Construir e subir os containers (após instalação do requirements.txt)
 
 docker-compose up --build
 
