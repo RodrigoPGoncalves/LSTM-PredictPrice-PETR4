@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/508279618523663309/6a1040136ba54c9b8b83f8decf041aca/artifacts
+end_time: 1747536193176
+entry_point_name: ''
+experiment_id: '508279618523663309'
+lifecycle_stage: active
+run_id: 6a1040136ba54c9b8b83f8decf041aca
+run_name: nervous-donkey-274
+run_uuid: 6a1040136ba54c9b8b83f8decf041aca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747536055518
+status: 3
+tags: []
+user_id: rodrigo

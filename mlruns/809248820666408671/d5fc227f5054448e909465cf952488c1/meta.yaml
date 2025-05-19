@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/809248820666408671/d5fc227f5054448e909465cf952488c1/artifacts
+end_time: 1747539088633
+entry_point_name: ''
+experiment_id: '809248820666408671'
+lifecycle_stage: active
+run_id: d5fc227f5054448e909465cf952488c1
+run_name: spiffy-snail-855
+run_uuid: d5fc227f5054448e909465cf952488c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747538285913
+status: 3
+tags: []
+user_id: rodrigo

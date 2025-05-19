@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/903987578623563501/b011da8e478247df944fe3d4c590eaaf/artifacts
+end_time: 1747567429984
+entry_point_name: ''
+experiment_id: '903987578623563501'
+lifecycle_stage: active
+run_id: b011da8e478247df944fe3d4c590eaaf
+run_name: beautiful-stoat-968
+run_uuid: b011da8e478247df944fe3d4c590eaaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747567356449
+status: 3
+tags: []
+user_id: rodrigo

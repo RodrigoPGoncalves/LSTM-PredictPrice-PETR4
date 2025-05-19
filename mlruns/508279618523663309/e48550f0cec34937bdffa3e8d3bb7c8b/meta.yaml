@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/508279618523663309/e48550f0cec34937bdffa3e8d3bb7c8b/artifacts
+end_time: 1747534753074
+entry_point_name: ''
+experiment_id: '508279618523663309'
+lifecycle_stage: active
+run_id: e48550f0cec34937bdffa3e8d3bb7c8b
+run_name: rogue-bear-641
+run_uuid: e48550f0cec34937bdffa3e8d3bb7c8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747534658196
+status: 3
+tags: []
+user_id: rodrigo

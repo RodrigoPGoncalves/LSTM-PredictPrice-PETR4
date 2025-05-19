@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/809248820666408671/e3f1a8f697c940df8470f323592788ca/artifacts
+end_time: 1747538283205
+entry_point_name: ''
+experiment_id: '809248820666408671'
+lifecycle_stage: active
+run_id: e3f1a8f697c940df8470f323592788ca
+run_name: silent-mole-569
+run_uuid: e3f1a8f697c940df8470f323592788ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747538152213
+status: 3
+tags: []
+user_id: rodrigo

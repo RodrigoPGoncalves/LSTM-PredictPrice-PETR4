@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/508279618523663309/ed5f5b67a0b94bbea31310e5c98de310/artifacts
+end_time: 1747534819782
+entry_point_name: ''
+experiment_id: '508279618523663309'
+lifecycle_stage: active
+run_id: ed5f5b67a0b94bbea31310e5c98de310
+run_name: skillful-gull-268
+run_uuid: ed5f5b67a0b94bbea31310e5c98de310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747534754256
+status: 3
+tags: []
+user_id: rodrigo

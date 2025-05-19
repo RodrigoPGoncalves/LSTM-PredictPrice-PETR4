@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/508279618523663309/d7abdec1434d419dbe580dd5c033adea/artifacts
+end_time: 1747534973287
+entry_point_name: ''
+experiment_id: '508279618523663309'
+lifecycle_stage: active
+run_id: d7abdec1434d419dbe580dd5c033adea
+run_name: blushing-ant-370
+run_uuid: d7abdec1434d419dbe580dd5c033adea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747534821120
+status: 3
+tags: []
+user_id: rodrigo

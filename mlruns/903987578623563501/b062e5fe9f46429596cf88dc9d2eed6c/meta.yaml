@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/903987578623563501/b062e5fe9f46429596cf88dc9d2eed6c/artifacts
+end_time: 1747566927256
+entry_point_name: ''
+experiment_id: '903987578623563501'
+lifecycle_stage: active
+run_id: b062e5fe9f46429596cf88dc9d2eed6c
+run_name: merciful-yak-528
+run_uuid: b062e5fe9f46429596cf88dc9d2eed6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747566842599
+status: 3
+tags: []
+user_id: rodrigo

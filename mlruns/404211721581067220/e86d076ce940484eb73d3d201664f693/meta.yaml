@@ -1,0 +1,16 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/404211721581067220/e86d076ce940484eb73d3d201664f693/artifacts
+deleted_time: 1747617320648
+end_time: 1747549271913
+entry_point_name: ''
+experiment_id: '404211721581067220'
+lifecycle_stage: deleted
+run_id: e86d076ce940484eb73d3d201664f693
+run_name: luxuriant-moth-267
+run_uuid: e86d076ce940484eb73d3d201664f693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747549114839
+status: 3
+tags: []
+user_id: rodrigo

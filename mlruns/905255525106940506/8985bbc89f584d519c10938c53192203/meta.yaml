@@ -1,0 +1,16 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/905255525106940506/8985bbc89f584d519c10938c53192203/artifacts
+deleted_time: 1747617206741
+end_time: 1747553371989
+entry_point_name: ''
+experiment_id: '905255525106940506'
+lifecycle_stage: deleted
+run_id: 8985bbc89f584d519c10938c53192203
+run_name: kindly-gull-661
+run_uuid: 8985bbc89f584d519c10938c53192203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747553150624
+status: 3
+tags: []
+user_id: rodrigo

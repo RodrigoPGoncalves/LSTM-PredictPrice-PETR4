@@ -1,0 +1,16 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/508279618523663309/2f95e3538a8e4c35a59604654131b23c/artifacts
+deleted_time: 1747617359559
+end_time: 1747537872616
+entry_point_name: ''
+experiment_id: '508279618523663309'
+lifecycle_stage: deleted
+run_id: 2f95e3538a8e4c35a59604654131b23c
+run_name: carefree-foal-653
+run_uuid: 2f95e3538a8e4c35a59604654131b23c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747537740685
+status: 3
+tags: []
+user_id: rodrigo

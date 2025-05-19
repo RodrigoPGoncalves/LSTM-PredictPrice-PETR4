@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/404211721581067220/c06211df467e45fe85c6692d8c8c032c/artifacts
+end_time: 1747550074394
+entry_point_name: ''
+experiment_id: '404211721581067220'
+lifecycle_stage: active
+run_id: c06211df467e45fe85c6692d8c8c032c
+run_name: fearless-shrimp-589
+run_uuid: c06211df467e45fe85c6692d8c8c032c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747549799524
+status: 3
+tags: []
+user_id: rodrigo

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/404211721581067220/c4a9d32f509747fcbf31ec9598ef1d54/artifacts
+deleted_time: 1747617320648
+end_time: 1747548363152
+entry_point_name: ''
+experiment_id: '404211721581067220'
+lifecycle_stage: deleted
+run_id: c4a9d32f509747fcbf31ec9598ef1d54
+run_name: resilient-mouse-471
+run_uuid: c4a9d32f509747fcbf31ec9598ef1d54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747548276848
+status: 3
+tags: []
+user_id: rodrigo

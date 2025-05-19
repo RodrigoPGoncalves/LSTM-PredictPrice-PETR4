@@ -1,0 +1,16 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/404211721581067220/18f38cc3cb6e4df393da5cb2aab86955/artifacts
+deleted_time: 1747617320652
+end_time: 1747548650468
+entry_point_name: ''
+experiment_id: '404211721581067220'
+lifecycle_stage: deleted
+run_id: 18f38cc3cb6e4df393da5cb2aab86955
+run_name: caring-trout-302
+run_uuid: 18f38cc3cb6e4df393da5cb2aab86955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747548549268
+status: 3
+tags: []
+user_id: rodrigo

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/508279618523663309/3d01ebf957424258ab4253b99423da66/artifacts
+end_time: 1747537594915
+entry_point_name: ''
+experiment_id: '508279618523663309'
+lifecycle_stage: active
+run_id: 3d01ebf957424258ab4253b99423da66
+run_name: clumsy-ape-328
+run_uuid: 3d01ebf957424258ab4253b99423da66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747537452736
+status: 3
+tags: []
+user_id: rodrigo

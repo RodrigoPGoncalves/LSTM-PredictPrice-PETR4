@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/404211721581067220/356316f147d94d47b4834e0322209e34/artifacts
+end_time: 1747549113541
+entry_point_name: ''
+experiment_id: '404211721581067220'
+lifecycle_stage: active
+run_id: 356316f147d94d47b4834e0322209e34
+run_name: melodic-squirrel-66
+run_uuid: 356316f147d94d47b4834e0322209e34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747549048772
+status: 3
+tags: []
+user_id: rodrigo

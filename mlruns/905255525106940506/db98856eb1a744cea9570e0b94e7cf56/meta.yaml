@@ -1,0 +1,16 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/905255525106940506/db98856eb1a744cea9570e0b94e7cf56/artifacts
+deleted_time: 1747617206737
+end_time: 1747567729322
+entry_point_name: ''
+experiment_id: '905255525106940506'
+lifecycle_stage: deleted
+run_id: db98856eb1a744cea9570e0b94e7cf56
+run_name: puzzled-duck-464
+run_uuid: db98856eb1a744cea9570e0b94e7cf56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747567527827
+status: 3
+tags: []
+user_id: rodrigo

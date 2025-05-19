@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/903987578623563501/bea3925c77c343219c49ba07bd195dad/artifacts
+end_time: 1747566841177
+entry_point_name: ''
+experiment_id: '903987578623563501'
+lifecycle_stage: active
+run_id: bea3925c77c343219c49ba07bd195dad
+run_name: blushing-finch-631
+run_uuid: bea3925c77c343219c49ba07bd195dad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747566775963
+status: 3
+tags: []
+user_id: rodrigo

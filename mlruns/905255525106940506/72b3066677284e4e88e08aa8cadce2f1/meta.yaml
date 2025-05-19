@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/905255525106940506/72b3066677284e4e88e08aa8cadce2f1/artifacts
+end_time: 1747567886900
+entry_point_name: ''
+experiment_id: '905255525106940506'
+lifecycle_stage: active
+run_id: 72b3066677284e4e88e08aa8cadce2f1
+run_name: mercurial-mink-693
+run_uuid: 72b3066677284e4e88e08aa8cadce2f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747567731737
+status: 3
+tags: []
+user_id: rodrigo

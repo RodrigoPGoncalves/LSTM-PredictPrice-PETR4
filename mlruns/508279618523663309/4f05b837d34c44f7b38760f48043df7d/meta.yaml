@@ -1,0 +1,16 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/508279618523663309/4f05b837d34c44f7b38760f48043df7d/artifacts
+deleted_time: 1747617359564
+end_time: 1747537084203
+entry_point_name: ''
+experiment_id: '508279618523663309'
+lifecycle_stage: deleted
+run_id: 4f05b837d34c44f7b38760f48043df7d
+run_name: charming-gull-881
+run_uuid: 4f05b837d34c44f7b38760f48043df7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747536860773
+status: 3
+tags: []
+user_id: rodrigo

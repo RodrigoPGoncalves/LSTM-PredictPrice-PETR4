@@ -1,0 +1,16 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/903987578623563501/c334cc96ef8948b2b71fb1042e7c24a4/artifacts
+deleted_time: 1747617437495
+end_time: 1747550499923
+entry_point_name: ''
+experiment_id: '903987578623563501'
+lifecycle_stage: deleted
+run_id: c334cc96ef8948b2b71fb1042e7c24a4
+run_name: delicate-shoat-408
+run_uuid: c334cc96ef8948b2b71fb1042e7c24a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747550424565
+status: 3
+tags: []
+user_id: rodrigo

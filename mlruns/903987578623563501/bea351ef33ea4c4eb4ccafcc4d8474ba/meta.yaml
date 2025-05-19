@@ -1,0 +1,16 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/903987578623563501/bea351ef33ea4c4eb4ccafcc4d8474ba/artifacts
+deleted_time: 1747617437480
+end_time: 1747567354982
+entry_point_name: ''
+experiment_id: '903987578623563501'
+lifecycle_stage: deleted
+run_id: bea351ef33ea4c4eb4ccafcc4d8474ba
+run_name: sedate-doe-565
+run_uuid: bea351ef33ea4c4eb4ccafcc4d8474ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747567254441
+status: 3
+tags: []
+user_id: rodrigo

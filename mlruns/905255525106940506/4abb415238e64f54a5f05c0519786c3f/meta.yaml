@@ -1,0 +1,16 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/905255525106940506/4abb415238e64f54a5f05c0519786c3f/artifacts
+deleted_time: 1747617206736
+end_time: 1747552047062
+entry_point_name: ''
+experiment_id: '905255525106940506'
+lifecycle_stage: deleted
+run_id: 4abb415238e64f54a5f05c0519786c3f
+run_name: nervous-rook-886
+run_uuid: 4abb415238e64f54a5f05c0519786c3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747551915760
+status: 3
+tags: []
+user_id: rodrigo

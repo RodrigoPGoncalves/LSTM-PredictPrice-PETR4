@@ -1,0 +1,16 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/903987578623563501/cc424c0984974aabbde7d4ee10f8a3b3/artifacts
+deleted_time: 1747617448609
+end_time: 1747551041177
+entry_point_name: ''
+experiment_id: '903987578623563501'
+lifecycle_stage: deleted
+run_id: cc424c0984974aabbde7d4ee10f8a3b3
+run_name: persistent-trout-232
+run_uuid: cc424c0984974aabbde7d4ee10f8a3b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747550962303
+status: 3
+tags: []
+user_id: rodrigo

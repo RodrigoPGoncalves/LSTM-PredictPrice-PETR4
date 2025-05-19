@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/404211721581067220/c9d0ad1c45374115ac7d985bcd703a98/artifacts
+end_time: 1747549047578
+entry_point_name: ''
+experiment_id: '404211721581067220'
+lifecycle_stage: active
+run_id: c9d0ad1c45374115ac7d985bcd703a98
+run_name: smiling-lark-17
+run_uuid: c9d0ad1c45374115ac7d985bcd703a98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747548817566
+status: 3
+tags: []
+user_id: rodrigo

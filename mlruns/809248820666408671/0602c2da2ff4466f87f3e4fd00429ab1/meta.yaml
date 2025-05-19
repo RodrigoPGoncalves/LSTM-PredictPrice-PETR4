@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/809248820666408671/0602c2da2ff4466f87f3e4fd00429ab1/artifacts
+end_time: 1747541886930
+entry_point_name: ''
+experiment_id: '809248820666408671'
+lifecycle_stage: active
+run_id: 0602c2da2ff4466f87f3e4fd00429ab1
+run_name: shivering-tern-494
+run_uuid: 0602c2da2ff4466f87f3e4fd00429ab1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747541609790
+status: 3
+tags: []
+user_id: rodrigo

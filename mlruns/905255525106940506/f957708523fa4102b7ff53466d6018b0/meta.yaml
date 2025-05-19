@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/905255525106940506/f957708523fa4102b7ff53466d6018b0/artifacts
+end_time: 1747552167869
+entry_point_name: ''
+experiment_id: '905255525106940506'
+lifecycle_stage: active
+run_id: f957708523fa4102b7ff53466d6018b0
+run_name: redolent-bug-200
+run_uuid: f957708523fa4102b7ff53466d6018b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747552049435
+status: 3
+tags: []
+user_id: rodrigo

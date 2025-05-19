@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/905255525106940506/03c5b9cde7334883a65ddb3af923ed19/artifacts
+end_time: 1747552477416
+entry_point_name: ''
+experiment_id: '905255525106940506'
+lifecycle_stage: active
+run_id: 03c5b9cde7334883a65ddb3af923ed19
+run_name: defiant-ant-412
+run_uuid: 03c5b9cde7334883a65ddb3af923ed19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747552359374
+status: 3
+tags: []
+user_id: rodrigo

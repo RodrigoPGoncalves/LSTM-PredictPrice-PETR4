@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/809248820666408671/fa3b97bbf0bd40afa90a550886045217/artifacts
+end_time: 1747539766218
+entry_point_name: ''
+experiment_id: '809248820666408671'
+lifecycle_stage: active
+run_id: fa3b97bbf0bd40afa90a550886045217
+run_name: likeable-ox-161
+run_uuid: fa3b97bbf0bd40afa90a550886045217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747539555395
+status: 3
+tags: []
+user_id: rodrigo

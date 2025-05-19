@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/809248820666408671/78811e505833418ba67c5210c5b286ac/artifacts
+end_time: 1747539553049
+entry_point_name: ''
+experiment_id: '809248820666408671'
+lifecycle_stage: active
+run_id: 78811e505833418ba67c5210c5b286ac
+run_name: popular-lynx-280
+run_uuid: 78811e505833418ba67c5210c5b286ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747539091507
+status: 3
+tags: []
+user_id: rodrigo

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/Documentos/LSTM-PredictPrice-KLBN4/models_experiment/905255525106940506/156aa65754f748f7991f5b0afb96bc75/artifacts
+end_time: 1747568767211
+entry_point_name: ''
+experiment_id: '905255525106940506'
+lifecycle_stage: active
+run_id: 156aa65754f748f7991f5b0afb96bc75
+run_name: zealous-shad-917
+run_uuid: 156aa65754f748f7991f5b0afb96bc75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747568614637
+status: 3
+tags: []
+user_id: rodrigo
