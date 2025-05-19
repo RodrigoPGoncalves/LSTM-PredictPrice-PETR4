@@ -60,9 +60,11 @@ python __init__.py
 
 ## 🐳 Rodando com Docker
 
-1. Construir e subir os containers (após instalação do requirements.txt)
+1. Construir e subir os containers
 
+```bash
 docker-compose up --build
+```
 
 ## 📊 Modelos disponíveis
 - model_lstm.py
